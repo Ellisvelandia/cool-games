@@ -1,1 +1,1 @@
-# cool-games
+# Hotel website
